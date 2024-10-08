@@ -14,7 +14,7 @@
 ## Getting Started
 
 1 Clone the repository:
-- git clone https://github.com/akkofisher/Credit.API
+- git clone https://github.com/akkofisher/Credit
 
 2 Set up the database:
 - Update the connection string in appsettings.json to point to your SQL Server instance.
